@@ -1,0 +1,120 @@
+859127166 // The Armory: Expanded - 35 Angry Bots
+//859127166 // The Armory: Expanded - 35 Angry Bots
+//.........SANDSTORM..............
+1890174604  //The SKS from Insurgency: Sandstorm. Replaces the SKS
+1846902521  //The Tariq Pistol from Insurgency: Sandstorm. Replaces the Makarov
+1842998874  //The AKM from Insurgency: Sandstorm. Replaces the AKM
+1748187675  //The Kabar from Insurgency: Sandstorm. Replaces the Knife
+1748185763  //The Kukri from Insurgency: Sandstorm. Replaces the Kukri
+1903475401  //The M249 from Insurgency: Sandstorm. Replaces the M249
+1843002167  //A custom made RPK (heavily modified AKM) from Insurgency: Sandstorm. Replaces the RPK.
+1842996561  //The AK-74 from Insurgency: Sandstorm. Replaces the AK-74
+1835564381  //The Makarov Pistol from Insurgency: Sandstorm. Replaces the Makarov
+1760249751  //The Trijicon MRO Sight from Insurgency: Sandstorm. Replaces the 1x Red Dot
+1741061922  //The EOTech 553 Sight from Insurgency: Sandstorm. Replaces the 1x Holographic
+1739536834  //The M24 from Insurgency: Sandstorm. Replaces the M40A1
+1739401582  //The PF940 from Insurgency: Sandstorm. Replaces the Beretta M9
+1728190780  //The M1911 from Insurgency: Sandstorm. Replaces the M1911
+1717922531  //Shared resources required for my Sandstorm items. This does nothing by itself.
+1490388534  //Insurgency Sandstorm weapons sounds mixed with vanilla game sounds.
+//1844948302  //The Beretta M9 from Insurgency: Sandstorm. Replaces the Beretta M9
+1843004009  //The AK Rail Mount from Insurgency: Sandstorm. Replaces the AK-74, AKM and RPK modkit
+1759230836  //The M16A4 from Insurgency: Sandstorm. Replaces the M16A4
+1759227035  //The M4A1 from Insurgency: Sandstorm. Replaces the M4A1
+1746529204  //The Tula Arms Plant TOZ-194M from Insurgency: Sandstorm. Replaces the TOZ
+1746520757  //The Remington M870 from Insurgency: Sandstorm. Replaces the M590
+1777119685  //This replaces the default faction icons with the ones from Insurgency: Sandstorm.
+1741096497  //The Trijicon ACOG TA31 Scope from Insurgency: Sandstorm. Replaces the 4x C79
+1741066183  //The Kobra EKP-8-18 Sight from Insurgency: Sandstorm. Replaces the 1x Kobra
+1741076733  //The 7x Hunting Scope from Insurgency: Sandstorm. Replaces the 7x Scope
+1761044189  //Optional flipup rear sight for the M16A4 from Insurgency: Sandstorm
+1761042040  //Optional flipup rear sight for the M4A1 from Insurgency: Sandstorm
+1899031861  //The MK14 Mod 1 EBR from Insurgency: Sandstorm. Replaces the M14 EBR
+1875739105  //The IMI Galil ARM and Galil SAR from Insurgency: Sandstorm. Replaces the Galils
+//1835841353  //Alternate version of the Trijicon ACOG TA31 Scope from Insurgency: Sandstorm, without the Killflash ARD. Replaces the 4x C79
+1741102916  //The Chevron reticle used by the Trijicon ACOG TA31 Scope from Insurgency: Sandstorm
+1741092122  //The reticle used by the ELCAN SpecterDR SU-230 Scope from Insurgency: Sandstorm
+1735495957  //The MK18 Mod 1 CQBR from Insurgency: Sandstorm. Replaces the MK
+1761039520  //Optional rail covers (with top rail cover) for the M16A4 from Insurgency: Sandstorm
+1761036273  //Optional rail covers (with top rail cover) for the M4A1 from Insurgency: Sandstorm
+1741058079  //The Aimpoint CompM4s Sight & Aimpoint 3XMag Magnifier from Insurgency: Sandstorm. Replaces the 2x Red Dot
+//1552631903  //Alternate inventory icons for weapons and equipment
+/////.........................
+943818485   //SR25 - Alternative Version
+1346482013  //Quake
+1228291585  //Black Magpul RVG for Security Foregrips **FIXED**
+//686640602   //Warrior D4 for M4A1
+1429125330 // black seals
+559241051   //Coffee-Kizoku Map Overviews
+//1395744045 //daimyo gnalvl theater v2.0 mp_theater_override dfs_dy_gnalvl_coop_usmc
+//1396052511  //35 angry bots engineer
+//....MAPS
+1275593047 //hs sounds
+//............Maps...................//
+730838293   //point_blank
+1562834364  //ins_chinatown
+426742049   //karkar_b10 checkpoint
+1580296541  //de_aztec_coop
+645198093   //payback
+1482148634  //facilityb2_coop_v1_1
+//358014119   //winter_rescue_v1
+//419248680       //Anime Graffiti
+1743348046      //de_train_csgo_pb2
+1787552582      //karkand_redux_p2
+//1258309711 	//l4d_garage01_alleys_b2 checkpoint
+//643884052 	//doi_metz checkpoint
+599730897 	//dust2_checkpoint checkpoint
+292081732 	//launch_control_coop_ws checkpoint
+650616844 	//Estates_b4 checkpoint
+573278223 	//Panama_Canal checkpoint
+426720530 	//baghdad_b5 checkpoint
+//608694820 	//doi_landfall checkpoint
+1207457291 	//cs_italy_coop checkpoint
+//1264090927 	//l4d_airport_terminal_b3 checkpoint
+673540696 	//doi_resistance checkpoint
+605055192 	//crossbow checkpoint
+400214755 	//abdallah_b1 checkpoint
+532461305   //badlands_b1 checkpoint
+445874783	//badlands_night_b1 checkpoint
+623454326	//doi_bridgeatremagen checkpoint
+248148672	//anbar_coop_ws checkpoint
+501104499	//prospect_coop_b6 checkpoint
+317112080	//station_ws checkpoint
+426712960	//almaden_b5 checkpoint
+517972533	//zagros_convoy_b5 checkpoint
+//1217898298	//l4d_mercy_hospital_b5 checkpoint
+1172671775	//warehouse_coopv3b4 checkpoint
+625900328	//doi_ps7 checkpoint
+383525894	//khanashin_b8 checkpoint
+//399587465	//haditha_b2 checkpoint 
+292080383	//jail_break_coop_ws checkpoint
+1180002850  //nomercy_coopv1 checkpoint
+1194875426  //oms_corridor_coopb3 checkpoint
+678342570   //doi_iron_cross checkpoint
+383549600  //khanashin_b8_night checkpoint
+1126512454  //convoy_coopv1 checkpoint
+815189600	//cs_workout_v1 checkpoint
+1202839339	//de_vertigo_coop checkpoint
+1189448765	//miransh_alpha checkpoint
+346843105	//the_burbs_coop checkpoint
+283120201	//bunker_busting_coop_ws checkpoint
+318205420	//block_party_coop_ws  checkpoint
+283120201	//bunker_busting_coop_ws checkpoint
+498253639	//amber_spirits_coop checkpoint
+574334931	//hurtlocker_coopv2hc checkpoint
+//335578709	//hijacked_ws checkpoint
+283125289	//jack_hammer_coopv1_2 checkpoint
+813471321	//szepezd_b3_coopv1_2 checkpoint
+603342622	//inferno_checkpoint_b2 checkpoint
+284971476	//tunnel_rats_coop_ws checkpoint
+498257082	//fortress_coop_ws checkpoint
+//320627351	//kandagal_coop_b5 checkpoint
+1202839339	//de_vertigo_coop checkpoint
+426720530	//baghdad_b5 checkpoint
+//393352418	//karkand_coop checkpoint
+507048379	//osama_b2_checkpoint checkpoint
+1597008784 //siege_rainstorm
+//1597007879 //buhriz_rainstorm
+1597536823 //ins_mountain_escape_v1_2
+795846849 //mountain_lake_coopv1_1
+
