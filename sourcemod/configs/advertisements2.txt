@@ -1,0 +1,40 @@
+// Advertisements 2.0
+// by Tsunami
+//
+// Types
+// -----
+// center: Center message
+// chat: Chat message
+// hint: Hint message
+// menu: Menu message
+// top: Top message
+//
+// Flags (optional)
+// -----
+// Accepts flags of admins that will not see the advertisement.
+// When omitted everyone will see the advertisement.
+// When left empty only admins will see the advertisement.
+
+"Advertisements"
+{
+    "1"
+    {
+        "center"		"https://www.gametracker.com/server_info/96.78.12.29:27006/"
+	//	"hint"			"Visit Cloudbytes.US 5$ Instances"
+    }
+    "2"
+    {
+     //   "center"		"Admin: mawilliams@cloudbytes.US"
+     //   "hint"			"Admin: mawilliams@cloudbytes.US"
+    }
+    "3"
+    {
+        "menu"			"Visit Cloudbytes.US 5$ Instances"
+        "flags"			"cft"
+    }
+    "4"
+    {
+        "menu"			"{lightgreen}Please consider visit http://cloudbytes.us/ for more info about server hosting provider!"
+        "flags"			"cft"			
+    }
+}
